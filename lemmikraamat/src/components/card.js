@@ -5,7 +5,7 @@ function GroupExample() {
   return (
     <CardGroup>
       <Card>
-        <Card.Img variant="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Anton_Kaulbach_Faust_und_MephistoFXD.jpg/1024px-Anton_Kaulbach_Faust_und_MephistoFXD.jpg" />
+        <Card.Img variant="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Anton_Kaulbach_Faust_und_MephistoFXD.jpg/1024px-Anton_Kaulbach_Faust_und_MephistoFXD.jpg" width={353} height={435} />
         <Card.Body>
           <Card.Title>Faust</Card.Title>
           <Card.Text>
